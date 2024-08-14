@@ -1,0 +1,140 @@
+body {
+  background-color: antiquewhite;
+}
+span{
+  color: crimson;
+}
+.mobile {
+  display: flex;
+  padding: 20px;
+  width: fit-content;
+  height: 350px;
+  background-color:cadetblue;
+}
+.poco img {
+  width: 150px;
+  border-radius: 10px;
+  padding: 9px;
+}
+
+.poco {
+ 
+  box-sizing: border-box;
+  border: 2px;
+  background-color: aliceblue;
+  width: 170px;
+  height: 300px;
+  border-radius: 10px;
+  text-align: center;
+}
+.vivo img {
+  width: 150px;
+  border-radius: 10px;
+  padding: 9px;
+}
+
+.vivo {
+  box-sizing: border-box;
+  border: 2px;
+  background-color: aliceblue;
+  width: 170px;
+  height: 300px;
+  border-radius: 10px;
+  text-align: center;
+  margin-left: 20px;
+}
+.pocom6 img {
+  width: 150px;
+  border-radius: 10px;
+  padding: 9px;
+}
+.pocom6 p {
+  margin-top: 25px;
+}
+
+.pocom6 {
+  box-sizing: border-box;
+  border: 2px;
+  background-color: aliceblue;
+  width: 170px;
+  height: 300px;
+  border-radius: 10px;
+  text-align: center;
+  margin-left: 20px;
+}
+.moto img {
+  width: 150px;
+  border-radius: 10px;
+  padding: 9px;
+}
+.moto p {
+  margin-top: 25px;
+}
+
+.moto {
+  box-sizing: border-box;
+  border: 2px;
+  background-color: aliceblue;
+  width: 170px;
+  height: 300px;
+  border-radius: 10px;
+  text-align: center;
+  margin-left: 20px;
+}
+.p1pro img {
+  width: 150px;
+  border-radius: 10px;
+  padding: 9px;
+}
+.p1pro p {
+  margin-top: 25px;
+}
+
+.p1pro {
+  box-sizing: border-box;
+  border: 2px;
+  background-color: aliceblue;
+  width: 170px;
+  height: 300px;
+  border-radius: 10px;
+  text-align: center;
+  margin-left: 20px;
+}
+.vivot3 img {
+  width: 150px;
+  border-radius: 10px;
+  padding: 9px;
+}
+.vivot3 p {
+  margin-top: 25px;
+}
+
+.vivot3 {
+  box-sizing: border-box;
+  border: 2px;
+  background-color: aliceblue;
+  width: 170px;
+  height: 300px;
+  border-radius: 10px;
+  text-align: center;
+  margin-left: 20px;
+}
+.infinix img {
+  width: 150px;
+  border-radius: 10px;
+  padding: 9px;
+}
+.infinix p {
+  margin-top: 25px;
+}
+
+.infinix {
+  box-sizing: border-box;
+  border: 2px;
+  background-color: aliceblue;
+  width: 170px;
+  height: 300px;
+  border-radius: 10px;
+  text-align: center;
+  margin-left: 20px;
+}
